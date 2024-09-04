@@ -16,6 +16,7 @@
 
 	<modules>
 		<module>Gen9-Choferes</module>
+		<module>Gen-9-Camiones</module>
 	</modules>
 	
 	<properties>
